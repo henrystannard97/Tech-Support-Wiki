@@ -6,10 +6,8 @@ nav_order: 1
 ---
 
 # Pulse Security
-{: .no_toc .text-delta }
 
 ## Table of contents
- {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
