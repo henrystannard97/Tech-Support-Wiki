@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pulse Security
-parent: sql-components
+parent: SQL Scripts
 nav_order: 1
 ---
 
