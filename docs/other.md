@@ -11,3 +11,6 @@ nav_order: 5
 
 ## [DevDocs API Documentation](https://devdocs.io/)
 - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
+
+## [SCORM Cloud](https://app.cloud.scorm.com/sc/guest/SignInForm)
+- Industry standard for testing SCORM courses
