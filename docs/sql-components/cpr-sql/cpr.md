@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Pulse Security
+title: CPR
 parent: SQL Scripts
 nav_order: 1
 ---
 
-# Pulse Security
+# CPR
 
 ## Table of contents
 
