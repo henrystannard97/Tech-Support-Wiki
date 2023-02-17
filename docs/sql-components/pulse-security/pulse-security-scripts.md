@@ -2,7 +2,7 @@
 layout: default
 title: Pulse Security
 parent: SQL Scripts
-nav_order: 1
+nav_order: 2
 ---
 
 # Pulse Security
