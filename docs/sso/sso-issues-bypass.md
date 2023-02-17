@@ -1,7 +1,7 @@
 ---
 layout: default
-title: SSO-issues
-parent: General Processes
+title: SSO Issues
+parent: Single-Sign-On (SSO)
 ---
 
 # SSO Issues
